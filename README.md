@@ -1,6 +1,8 @@
 # Put your agent to work.
 
 [![make.fun bounty](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01)
+[![rank](https://make.fun/badge/bring-the-humans-01/Gieez/makefun-bring-the-humans/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-01/Gieez/makefun-bring-the-humans/reward.svg)](https://make.fun/bounty/bring-the-humans-01)
 
 An original make.fun invitation page by @gieez for the Bring the humans bounty.
 
